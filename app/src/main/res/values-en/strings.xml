@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz Hunter</string>
+    <string name="pergunta">Which monster is represented by the picture?</string>
+    <string name="novato">Newbie Hunter!</string>
+    <string name="inexperiente">Inexperienced Hunter!</string>
+    <string name="experiente">Experienced Hunter!</string>
+    <string name="veterano">Veteran Hunter!</string>
+    <string name="mestre">Master Hunter!</string>
+    <string name="pontos">Points: </string>
+    <string name="certas">Correct Answers: </string>
+    <string name="resultado">Result:</string>
+    <string name="dificuldade">CHOOSE THE DIFFICULTY</string>
+    <string name="ranque_baixo">LOW RANK</string>
+    <string name="ranque_alto">HIGH RANK</string>
+    <string name="ranque_mestre">MASTER RANK</string>
+    <string name="sair">Exit</string>
+    <string name="info">M. Vieira\nmvieiradev@gmail.com</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz Hunter</string>
+    <string name="pergunta">¿Qué monstruo está representado por la imagen?</string>
+    <string name="novato">¡Cazador Novato!</string>
+    <string name="inexperiente">¡Cazador Inexperto!</string>
+    <string name="experiente">¡Cazador Experimentado!</string>
+    <string name="veterano">¡Cazador Veterano!</string>
+    <string name="mestre">¡Cazador Maestro!</string>
+    <string name="pontos">Puntos: </string>
+    <string name="certas">Resp. Correctas: </string>
+    <string name="resultado">Resultado:</string>
+    <string name="dificuldade">ELIGE LA DIFICULTAD</string>
+    <string name="ranque_baixo">BAJO RANGO</string>
+    <string name="ranque_alto">ALTO RANGO</string>
+    <string name="ranque_mestre">RANGO MAESTRO</string>
+    <string name="sair">Salir</string>
+    <string name="info">M. Vieira\nmvieiradev@gmail.com</string>
+
+</resources>

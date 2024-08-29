@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fundo_botao">#FFFFFF</color>
+    <color name="borda_botao">#808080</color>
+    <color name="fundo_botao_selec">#0091D3</color>
+    <color name="borda_botao_selec">#FFFFFF</color>
+    <color name="fundo_ok">#9C27B0</color>
+    <color name="borda_ok">#FFC107</color>
+    <color name="fundo_tela_quiz">#213745</color>
+</resources>

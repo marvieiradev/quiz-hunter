@@ -1,0 +1,341 @@
+01 - Rathalos
+02 - Rathian
+03 - Anjanath
+04 - Barroth
+05 - Bazelgeuse
+06 - Diablos
+07 - Black Diablos
+08 - Azure Rathalos
+09 - Pink Rathian
+10 - Barnos
+11 - Apceros
+12 - Legiana
+13 - Kulu-Ya-Ku
+14 - Kestodon
+15 - Lunastra
+16 - Kirin
+17 - Kushala Daora
+18 - Vaal Hazak
+19 - Teostra
+20 - Kulve Taroth
+21 - Aptonoth
+22 - Lavasioth
+23 - Xenojiiva
+24 - Vespoid
+25 - Tobi Kadachi
+26 - Shamos
+27 - Musgoin
+28 - Nergigante
+29 - Mernos
+30 - Jagras
+31 - Girros
+32 - Dodogama
+33 - Great Girros
+34 - Deviljho
+35 - Pukei-Pukei
+36 - Paolumu
+37 - Raphinos
+38 - Gastodon
+39 - Gajau
+40 - Zorah Magdaros
+41 - Great Jagras
+42 - Hornetaur
+43 - Jyuratodus
+44 - Radobaan
+45 - Uragaan
+46 - Tzitzi-Ya-Ku
+47 - Odogaron
+48 - Kelbi
+49 - Noios
+50 - Alatreon
+51 - Cortos
+52 - Blackveil Vaal Hazak
+53 - Coral Pukei-Pukei
+54 - Beotodos
+55 - Glavenus
+56 - Acidic Glavenus
+57 - Barioth", "Tigrex
+58 - Frostfang Barioth
+59 - Banbaro", "Deviljho
+60 - Nightshade Paolumu
+61 - Anteka
+62 - Ebony Odogaron
+63 - Nargacuga
+64 - Fulgur Anjanath
+65 - Popo
+66 - Rajang
+67 - Furious Rajang
+68 - Brachydios
+69 - Raging Brachydios
+70 - Savage Deviljho
+71 - Yan Garuga
+72 - Scarred Yan Garuga
+73 - Tigrex
+74 - Brute Tigrex
+75 - Zinogre
+76 - Stygian Zinogre
+77 - Shrieking Legiana
+78 - Viper Tobi-Kadachi
+79 - Seething Bazelgeuse
+80 - Wulg
+81 - Velkhana
+82 - Namielle
+83 - Silver Rathalos
+84 - Gold Rathian
+85 - Ruiner Nergigante
+86 - Shara Ishvalda
+87 - Safijiiva
+88 - Fatalis
+89 - Bulldrome
+90 - Basarios
+91 - Gravios
+92 - Black Gravios
+93 - Cephalos
+94 - Bullfango
+95 - Akantor
+96 - Cephadrome
+97 - Lao-Shan Lung
+98 - Ashen Lao-Shan Lung
+99 - Chameleos
+100 - Rusted Kushala Daora
+101 - Hermitaur
+102 - Blango
+103 - Giaprey
+104 - Remobra
+105 - Conga
+106 - Congalala
+107 - Genprey
+108 - Ioprey
+109 - Velociprey
+110 - Ceanataur
+111 - Plesioth
+112 - Green Plesioth
+113 - Blangonga
+114 - Gypceros
+115 - Purple Gypceros
+116 - Khezu
+117 - Red Khezu
+118 - Iodrome
+119 - Gendrome
+120 - Daimyo Hermitaur
+121 - Monoblos
+122 - White Monoblos
+123 - Yian Kut-Ku
+124 - Blue Yian Kut-Ku
+125 - Velocidrome
+126 - Shogun Ceanataur
+127 - Shen Gaoren
+128 - Abyssal Lagiacrus
+129 - Lagiacrus
+130 - Ivory Lagiacrus
+131 - Qurupeco
+132 - Crimson Qurupeco
+133 - Wroggi
+134 - Great Wroggi
+135 - Jaggi
+136 - Jaggia
+137 - Great Jaggi
+138 - Giggi
+139 - Nibelsnarf
+140 - Altaroth
+141 - Green Nargacuga
+142 - Lucent Nargacuga
+143 - Baggi
+144 - Great Baggi
+145 - Glacial Agnaktor
+146 - Agnaktor
+147 - Goldbeard Ceadeus
+148 - Ceadeus
+149 - Hallowed Jhen Mohran
+150 - Jhen Mohran
+151 - Gigginox
+152 - Baleful Gigginox
+153 - Epioth
+154 - Gobul
+155 - Duramboros
+156 - Jade Barroth
+157 - Lagombi
+158 - Arzuros
+159 - Delex
+160 - Ludroth
+161 - Royal Ludroth
+162 - Purple Ludroth
+163 - Rhenoplos
+164 - Gargwa
+165 - Volvidon
+166 - Uroktor
+167 - Steel Uragaan
+168 - Slagtoth
+169 - Sand Barioth
+170 - Rust Duramboros
+171 - Dalamadur
+172 - Shah Dalamadur
+173 - Zamtrios
+174 - Tigerstripe Zamtrios
+175 - Seregios
+176 - Tidal Najarala
+177 - Shrouded Nerscylla
+178 - Zamite
+179 - Tetsucabra
+180 - Shagaru Magala
+181 - Gore Magala
+182 - Seltas
+183 - Oroshi Kirin
+184 - Desert Seltas Queen
+185 - Seltas Queen
+186 - Najarala
+187 - Molten Tigrex
+188 - Ruby Basarios
+189 - Emerald Congalala
+190 - Desert Seltas
+191 - Dahren Mohran
+192 - Berserk Tetsucabra
+193 - Nerscylla
+194 - Konchu
+195 - Plum Daimyo Hermitaur
+196 - Kecha Wacha
+197 - Ash Kecha Wacha
+198 - Great Thunderbug
+199 - Mizutsune
+200 - Soulseer Mizutsune
+201 - Drilltusk Tetsucabra
+202 - Dreadqueen Rathian
+203 - Dreadking Rathalos
+204 - Deadeye Yian Garuga
+205 - Thunderlord Zinogre
+206 - Chaotic Gore Magala
+207 - Astalos
+208 - Boltreaver Astalos
+209 - Redhelm Arzuros
+210 - Amatsu
+211 - Crystalbeard Uragaan
+212 - Valstrax
+213 - Bloodbath Diablos
+214 - Snowbaron Lagombi
+215 - Silverwind Nargacuga
+216 - Nakarkos
+217 - Hellblade Glavenus
+218 - Grimclaw Tigrex
+219 - Gammoth
+220 - Elderfrost Gammoth
+221 - Maccao
+222 - Great Maccao
+223 - Larinoth
+224 - Malfestio
+225 - Nightcloak Malfestio
+226 - Moofah
+227 - Aberrant Deviljho
+228 - Apiposu
+229 - Great Apiposu
+230 - Somnacanth
+231 - Thunder Serpent Narwa
+232 - Wind Serpent Ibushi
+233 - Tetranadon
+234 - Narwa the Allmother
+235 - Aknosom
+236 - Almudron
+237 - Apex Arzuros
+238 - Bombadgy
+239 - Goss Harag
+240 - Magnamalo
+241 - Izuchi
+242 - Great Izuchi
+243 - Apex Diablos
+244 - Bishaten
+245 - Apex Mizutsune
+246 - Crimson Glow Valstrax
+247 - Apex Rathalos
+248 - Apex Rathian
+249 - Rachnoid
+250 - Apex Zinogre
+251 - Bnahabra
+252 - Rakna-Kadaki
+253 - Stonefist Hermitaur
+254 - Ahtal-Ka
+255 - Rustrazor Ceanataur
+256 - Great Poogie
+257 - Dire Miralis
+258 - Kurenai Goukami
+259 - Makili Pietru
+260 - Versa Pietru
+261 - Demonic Seregios
+262 - Destruction Rathalos
+263 - Enma Rajang
+264 - Eo Garudia
+265 - Explosive Duramboros
+266 - Fiercewater Nargacuga
+267 - Flame Rathalos
+268 - Frozen Barioth
+269 - Gilded Diablos
+270 - Iceblast Brachydios
+271 - Immortal Zinogre
+272 - Landconquest Lagiacrus
+273 - Morudomunto
+274 - Nefu Garumudo
+275 - Purgatory Agnaktor
+276 - Scorching Heat Rathian
+277 - Seabream Plesioth
+278 - Shiningrock Uragaan
+279 - Steel Armor Diablos
+280 - Thunder Emperor Kirin
+281 - Estrellian
+282 - Chramine
+283 - Ice Chramine
+284 - Virulent Gigginox
+285 - Thunderbubble Mizutsune
+286 - Whitewater Plesioth
+287 - Baelidae
+288 - Arbiter Estrellian
+289 - Dread Baelidae
+290 - Gold Congalala
+291 - Caeserber
+292 - Ghost Caeserber
+293 - Yellow Caeserber
+294 - Flame Blangonga
+295 - Disaster Wyvern
+296 - Flame Tigrex
+297 - Doom Estrellian 
+298 - Gonngenn Hermitaur
+299 - Hypnocatrice
+300 - Gold Hypnocatrice
+301 - Great Dracophage Bug
+302 - Oltura
+303 - Watermelon Uragaan
+304 - Crimson Fatalis
+305 - White Fatalis
+306 - Sandstone Basarios
+307 - Zerureusu
+308 - Berukyurosu
+309 - Burukku
+310 - Erupe
+311 - Garuba Daora
+312 - Pokara
+313 - Rukodiora
+314 - Silver Hypnocatrice
+315 - Espinas
+316 - Meraginasu
+317 - Onimusha
+318 - Pariapuria
+319 - Giaorugu
+320 - Abiorugu
+321 - Merphistophelin
+322 - Lightenna
+323 - Laviente
+324 - Tartaronis
+325 - Gajalaka
+326 - Boaboa
+327 - Felyne
+328 - Melynx
+329 - Shakalaka
+330 - Yama Tsukami
+331 - Palamute
+332 - Blood Orange Bishaten
+333 - Gaismagorm
+334 - Gowngoat
+335 - Lunagaron
+336 - Magma Almudron
+337 - Malzeno
+338 - Pyrantula
+339 - Pyre Rakna-Kadaki
+340 - Scorned Magnamalo
+341 - Garangolm
