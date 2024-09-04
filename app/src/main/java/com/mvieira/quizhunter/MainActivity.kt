@@ -62,6 +62,7 @@ class MainActivity : AppCompatActivity() {
             }.start()
         }
 
+        /*
         btn_master.setOnClickListener(){
             img_cat.setBackgroundResource(R.drawable.img_main_click)
             object : CountDownTimer(600, 600) {
@@ -74,6 +75,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }.start()
         }
+        */
     }
     override fun onDestroy() {
         /*if (adView != null) {

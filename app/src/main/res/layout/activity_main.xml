@@ -41,7 +41,7 @@
         android:layout_width="300dp"
         android:layout_height="65dp"
         android:layout_marginTop="20dp"
-        android:background="@drawable/botao_low"
+        android:background="@drawable/botao_high"
         android:fontFamily="@font/fugaz_one"
         android:shadowColor="#000000"
         android:shadowDx="2"
@@ -74,7 +74,7 @@
         android:layout_width="300dp"
         android:layout_height="65dp"
         android:layout_marginTop="20dp"
-        android:background="@drawable/botao_high"
+        android:background="@drawable/botao_mast"
         android:fontFamily="@font/fugaz_one"
         android:shadowColor="#000000"
         android:shadowDx="2"
@@ -87,6 +87,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_low" />
 
+    <!--
     <Button
         android:id="@+id/btn_master"
         android:layout_width="300dp"
@@ -104,7 +105,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_high" />
-
+    -->
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
