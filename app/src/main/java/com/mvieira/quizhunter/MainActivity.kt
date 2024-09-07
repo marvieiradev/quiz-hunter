@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
                 override fun onTick(millisUntilFinished: Long) {}
                 override fun onFinish() {
                     rank = 2
-                    intent.putExtra("RANK",rank)
+                    intent.putExtra("rank",rank)
                     startActivity(intent)
                     finish()
                 }

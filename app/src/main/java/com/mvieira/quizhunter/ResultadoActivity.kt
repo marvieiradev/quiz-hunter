@@ -47,39 +47,50 @@ class ResultadoActivity : AppCompatActivity() {
     }
 
     private fun mostraResultado(int:Int) {
-        if (int == 1){
             pontos = aux
-            if (pontos >= 0 && pontos < 250) {
+            if (pontos >= 0 && pontos < 150){
                 txt_titulo.setText("${getString(R.string.novato)}")
-                stars.setImageResource(R.drawable.star_low1)
-            }else if (pontos >= 250 && pontos < 500){
+                when(int){
+                    1-> stars.setImageResource(R.drawable.star_low1)
+                    2-> stars.setImageResource(R.drawable.star_high1)
+                    else-> stars.setImageResource(R.drawable.star_mast1)
+                }
+            }else if (pontos >= 150 && pontos < 250){
                 txt_titulo.setText("${getString(R.string.inexperiente)}")
-                stars.setImageResource(R.drawable.star_low2)
-            }else{
+                when(int){
+                    1-> stars.setImageResource(R.drawable.star_low2)
+                    2-> stars.setImageResource(R.drawable.star_high2)
+                    else-> stars.setImageResource(R.drawable.star_mast2)
+                }
+            }else if (pontos >= 250 && pontos < 400){
                 txt_titulo.setText("${getString(R.string.experiente)}")
-                stars.setImageResource(R.drawable.star_low3)
-            }
-
-        }else{
-            pontos = aux*2
-            if (pontos >= 0 && pontos < 300){
-                txt_titulo.setText("${getString(R.string.novato)}")
-                stars.setImageResource(R.drawable.star_high1)
-            }else if (pontos >= 300 && pontos < 500){
-                txt_titulo.setText("${getString(R.string.inexperiente)}")
-                stars.setImageResource(R.drawable.star_high2)
-            }else if (pontos >= 500 && pontos < 800){
-                txt_titulo.setText("${getString(R.string.experiente)}")
-                stars.setImageResource(R.drawable.star_high3)
-            }else if (pontos >= 800 && pontos < 1040){
+                when(int){
+                    1-> stars.setImageResource(R.drawable.star_low3)
+                    2-> stars.setImageResource(R.drawable.star_high3)
+                    else-> stars.setImageResource(R.drawable.star_mast3)
+                }
+            }else if (pontos >= 450 && pontos < 520){
                 txt_titulo.setText("${getString(R.string.veterano)}")
-                stars.setImageResource(R.drawable.star_high4)
+                when(int){
+                    1-> stars.setImageResource(R.drawable.star_low4)
+                    2-> stars.setImageResource(R.drawable.star_high4)
+                    else-> stars.setImageResource(R.drawable.star_mast4)
+                }
             }else{
                 txt_titulo.setText("${getString(R.string.mestre)}")
-                stars.setImageResource(R.drawable.star_high5)
+                when(int){
+                    1-> stars.setImageResource(R.drawable.star_low5)
+                    2-> stars.setImageResource(R.drawable.star_high5)
+                    else-> stars.setImageResource(R.drawable.star_mast5)
+                }
             }
+
+        val total_pontos = when(int){
+            1-> pontos
+            2-> pontos*2
+            else->pontos*3
         }
-        txt_pontos.setText("${getString(R.string.pontos)} $pontos")
+        txt_pontos.setText("${getString(R.string.pontos)} $total_pontos")
         txt_certas.setText("${getString(R.string.certas)} $certas")
     }
 }
